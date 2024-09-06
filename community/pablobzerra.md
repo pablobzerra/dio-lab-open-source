@@ -3,7 +3,7 @@
 # Pablo bezerra
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablobzerra)
 ## 🚀 Sobre mim
-Me chamo Pablo Bezerra, comecei na área de tecnologia maso menos no ano de 2011/2016, sempre pesquiso para aprender cada vez mais, nisso aprendi o básico de cada linguagens  não que eu lembre tudo mas quando tenho uma ideia acabo fazendo e aprendendo.
+Me chamo Pablo Bezerra, comecei na área de tecnologia mais ou menos no ano de 2011/2016, sempre pesquiso para aprender cada vez mais, nisso aprendi o básico de cada linguagens  não que eu lembre tudo mas quando tenho uma ideia acabo fazendo e aprendendo.
 
 ## 💻 Linguagens & Começo/projetos
 - C++ (tava Aprendendo)
